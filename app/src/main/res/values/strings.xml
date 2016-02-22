@@ -7,5 +7,5 @@
     <string name="action_settings">Settings</string>
     <string name="change_theme">ChangeTheme</string>
     <string name="text_contet">The parent attribute in the element lets you specify a style from which your style should inherit properties. You can use this to inherit properties from an existing style and then define only the properties that you want to change or add. You can inherit from styles that you\'ve created yourself or from styles that are built into the platform. (See Using Platform Styles and Themes, below, for information about inheriting from styles defined by the Android platform.) For example, you can inherit the Android platform\'s default text appearance and then modify it:</string>
-    <string name="text_title">文本标题</string>
+    <string name="text_title">文本标题1</string>
 </resources>

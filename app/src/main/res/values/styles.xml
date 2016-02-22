@@ -20,6 +20,7 @@
     <style name="dayTheme" parent="AlertDialog.AppCompat">
         <item name="bg_color">#eeeeee</item>
         <item name="title_color">#111111</item>
+
         <item name="content_color">#333333</item>
     </style>
     <style name="nightTheme" parent="AlertDialog.AppCompat">
